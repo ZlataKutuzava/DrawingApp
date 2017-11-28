@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open_image">Open image</string>
+    <string name="action_take_photo">Take photo</string>
+    <string name="action_share">Share</string>
+    <string name="title_activity_paint">PaintActivity</string>
+    <string name="message_saved">Saved</string>
+    <string name="message_error_saving">Error</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="stroke_width_dialog_title">Change width</string>
+    <string name="error_share_message">Sorry. The image can not be shared.</string>
+
+    <string name="label_alpha">Opacity</string>
+    <string name="label_red">Red</string>
+    <string name="label_green">Green</string>
+    <string name="label_blue">Blue</string>
+</resources>
